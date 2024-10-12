@@ -3,12 +3,12 @@ import matplotlib.pyplot as plt
 import csv
 import streamlit as st
 import streamlit.components.v1 as  components
-# import numpy as np
+import numpy as np
 import pandas as pd
 from pandas import DataFrame
-#from tabulate import tabulate
+from tabulate import tabulate
 # import matplotlib.pyplot as plt
-#import ruptures as rpt
+import ruptures as rpt
 # import csv
 import os 
 from io import StringIO
